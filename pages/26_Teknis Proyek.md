@@ -6,7 +6,7 @@
 
 👉 [**Daftar Anggota Kelompok**](https://docs.google.com/spreadsheets/d/19jB7jdGE7KZ-HkOPinzD5Awewhgqdr92QuW49bNlyBg/edit?gid=0#gid=0) 
 
-**Harap mengisi data di sheet ini paling lambat Minggu, 2 November 2024**, karena akan segera diserahkan kepada Dosen.
+**Harap mengisi data di sheet ini paling lambat Kelas A:Rabu, 29 Oktober 2025 Kelas B:Sabtu, 1 November 2025**, karena akan segera diserahkan kepada Dosen.
 
 Link Assignment A: https://classroom.github.com/a/Fum_TD-D
 Link Assignment B: https://classroom.github.com/a/7mX5QgGR
