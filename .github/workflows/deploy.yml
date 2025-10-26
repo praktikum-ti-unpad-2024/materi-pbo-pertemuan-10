@@ -28,8 +28,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Set execute permissions
+        run: chmod -R +x node_modules/.bin
+
       - name: Install Playwright Browsers
-        run: npx playwright install --with-deps
+        run: npm exec playwright install --with-deps
 
       - name: Build
         run: npm run build -- --base /${{github.event.repository.name}}/
